@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25812607332",
+    "project_id": "instagram-tutorial-8fb67",
+    "storage_bucket": "instagram-tutorial-8fb67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25812607332:android:c92df413cfc7d481be1a71",
+        "android_client_info": {
+          "package_name": "com.example.instagram_rivaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25812607332-orrfbfih3nbf9im1h9juk5nl0e1qoi2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YcsoCDQk_tMI_Km2SRs1K5Rn4Xv3yhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25812607332-orrfbfih3nbf9im1h9juk5nl0e1qoi2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
